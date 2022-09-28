@@ -46,3 +46,6 @@ Following are all the factors that could influence residential home prices acros
 2| Distance from nearest hospital | Less time to reach hospital during medical emergency | Positive |
 3| Distance from nearest Airport | Intermediate distance id preferred, too close will cause noise pollution, too far will lead to time consumption | Different in diff. situations |
 4| Distance from nearest Shopping Mall | Less time to reach mall to purchase necessary items | Positive |
+
+<h1>Reference</h1>
+[Feature Data Reference](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
