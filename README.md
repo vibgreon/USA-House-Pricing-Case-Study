@@ -7,7 +7,11 @@
 
 Following are all the factors that could influence residential home prices across the United States over the next decade.
 
+![MECE framework](/assets/MECE.png "MECE framework for House Price Problem")
+
+<!--
 <img src="MECE.svg" height="auto" width="auto"/>
+-->
 
 ### House Architecture/ Facilities
 || Factors | Reason | Impact |
